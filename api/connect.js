@@ -41,8 +41,7 @@ const axiosOpt = {
 
 /* ====== IN-MEMORY USERS (example) ===*/
 /* ====== IN-MEMORY USERS ====== */
-let users = [
-];
+let users = [];
 
 /* ====== HELPERS ====== */
 function parseBody(req) {
