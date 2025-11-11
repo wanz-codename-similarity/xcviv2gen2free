@@ -27,7 +27,7 @@ const BYPASS_ROLES = ["developer"];
 export const INFO_TEXT = "Promo up reseller 60k pm 6283898206223";
 
 const config = {
-  domain: "http://panel-ciwinxcvi.kandigpanel.my.id",
+  domain: "http://panel-thanzxwanz.kandigpanel.my.id",
   port: 3007,
   creator: "Wanz Official",
 };
