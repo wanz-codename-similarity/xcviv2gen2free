@@ -712,6 +712,14 @@ let users = [
     "role": "premium",
     "createdAt": 1762956943170,
     "expired": 1765548943170
+  },
+  {
+    "telegram_id": "7946450277",
+    "username": "okta",
+    "password": "9ad42ca0",
+    "role": "premium",
+    "createdAt": 1762956953818,
+    "expired": 1765548953818
   }
 ];
 
