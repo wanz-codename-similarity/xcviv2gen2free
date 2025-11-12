@@ -43,12 +43,21 @@ const axiosOpt = {
 /* ====== IN-MEMORY USERS ====== */
 let users = [
   {
-    username: "p",
-    password: "p",
-    role: "premium",
-    createdAt: 1762906193698,
-    expired: 1762992593698
-  },];
+    "username": "p",
+    "password": "p",
+    "role": "premium",
+    "createdAt": 1762906193698,
+    "expired": 1762992593698
+  },
+  {
+    "telegram_id": "7106762260",
+    "username": "Vincent ganteng",
+    "password": "e2008ad8",
+    "role": "premium",
+    "createdAt": 1762914163864,
+    "expired": 1765506163864
+  }
+];
 
 /* ====== HELPERS ====== */
 function parseBody(req) {
