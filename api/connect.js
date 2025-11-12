@@ -28,7 +28,7 @@ export const INFO_TEXT = "Promo up reseller 60k pm 6283898206223";
 
 const config = {
   domain: "http://similarityyyyy.kantinvps.my.id",
-  port: 3007,
+  port: 3002,
   creator: "Wanz Official",
 };
 const base = `${config.domain}:${config.port}`;
