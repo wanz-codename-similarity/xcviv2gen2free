@@ -43,13 +43,6 @@ const axiosOpt = {
 /* ====== IN-MEMORY USERS ====== */
 let users = [
   {
-    "username": "p",
-    "password": "p",
-    "role": "premium",
-    "createdAt": 1762906193698,
-    "expired": 1762992593698
-  },
-  {
     "telegram_id": "7106762260",
     "username": "Vincent ganteng",
     "password": "e2008ad8",
@@ -65,6 +58,7 @@ let users = [
     "createdAt": 1762914477117,
     "expired": 1765506477117
   }
+
 ];
 
 /* ====== HELPERS ====== */
