@@ -1243,14 +1243,6 @@ let users = [
     "expired": 1765577086440
   },
   {
-    "telegram_id": "8249185700",
-    "username": "zakz",
-    "password": "51b94741",
-    "role": "premium",
-    "createdAt": 1762985136152,
-    "expired": 1765577136152
-  },
-  {
     "telegram_id": "6998761894",
     "username": "Shifx",
     "password": "37e036b6",
