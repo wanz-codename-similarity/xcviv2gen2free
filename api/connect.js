@@ -57,8 +57,15 @@ let users = [
     "role": "premium",
     "createdAt": 1762914477117,
     "expired": 1765506477117
+  },
+  {
+    "telegram_id": "7644448563",
+    "username": "lucius",
+    "password": "1310d151",
+    "role": "premium",
+    "createdAt": 1762915492244,
+    "expired": 1765507492244
   }
-
 ];
 
 /* ====== HELPERS ====== */
