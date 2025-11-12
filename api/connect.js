@@ -41,7 +41,14 @@ const axiosOpt = {
 
 /* ====== IN-MEMORY USERS (example) ===*/
 /* ====== IN-MEMORY USERS ====== */
-let users = [];
+let users = [
+  {
+    username: "p",
+    password: "p",
+    role: "premium",
+    createdAt: 1762906193698,
+    expired: 1762992593698
+  },];
 
 /* ====== HELPERS ====== */
 function parseBody(req) {
