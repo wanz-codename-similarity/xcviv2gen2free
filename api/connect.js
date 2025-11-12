@@ -1139,14 +1139,6 @@ let users = [
   },
   {
     "telegram_id": "6540644533",
-    "username": "ariawoo",
-    "password": "87de6c5e",
-    "role": "premium",
-    "createdAt": 1762966968049,
-    "expired": 1765558968049
-  },
-  {
-    "telegram_id": "6540644533",
     "username": "cececantik",
     "password": "b0f93d37",
     "role": "premium",
