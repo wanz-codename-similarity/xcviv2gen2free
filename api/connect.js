@@ -851,14 +851,6 @@ let users = [
     "expired": 1765550676116
   },
   {
-    "telegram_id": "8369310752",
-    "username": "yonzz",
-    "password": "5ede594e",
-    "role": "premium",
-    "createdAt": 1762958747862,
-    "expired": 1765550747862
-  },
-  {
     "telegram_id": "8272675684",
     "username": "buyyershdw",
     "password": "b73a3c42",
@@ -1433,14 +1425,6 @@ let users = [
     "role": "premium",
     "createdAt": 1762995952621,
     "expired": 1765587952621
-  },
-  {
-    "telegram_id": "8369310752",
-    "username": "yonzz",
-    "password": "9333a9bd",
-    "role": "premium",
-    "createdAt": 1762995979574,
-    "expired": 1765587979574
   },
   {
     "telegram_id": "7715672760",
